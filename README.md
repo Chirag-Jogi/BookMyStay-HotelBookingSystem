@@ -2,13 +2,13 @@ BookMyStay is a web development project designed to simulate an online hotel boo
 
 Key Features:
 
-User Registration: Allows users to create an account by registering on the platform.
-Booking Form: Users can fill out a booking form with their stay details, including check-in, check-out dates, room type, and number of guests.
-Payment Simulation: After submitting the booking form, a loading page simulates the payment process, leading to a "Booking Successful" confirmation after a brief delay.
-Database Integration: Utilized SQL to store user registration and booking details, ensuring that all data is recorded and retrievable.
+1.User Registration: Allows users to create an account by registering on the platform.
+2.Booking Form: Users can fill out a booking form with their stay details, including check-in, check-out dates, room type, and number of guests.
+3.Payment Simulation: After submitting the booking form, a loading page simulates the payment process, leading to a "Booking Successful" confirmation after a brief delay.
+4.Database Integration: Utilized SQL to store user registration and booking details, ensuring that all data is recorded and retrievable.
 Tools & Technologies:
 
-Front-End: HTML5, CSS3, JavaScript
-Back-End: Java, JDBC
-Database: SQL
-Tools: Ecllipse IDM
+1.Front-End: HTML5, CSS3, JavaScript
+2.Back-End: Java, JDBC
+3.Database: SQL
+4.Tools: Ecllipse IDM
